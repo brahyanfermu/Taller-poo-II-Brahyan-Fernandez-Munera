@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "ingles",
+    "teacher_id": 1,
+    "credits": 4,
+    "description": "nivel 1",
+    "created_at": "2026-06-01T21:55:07.785387"
+  }
+]
